@@ -51,4 +51,5 @@ proc nick_ch { nick uhost handle chan newnick } {
 	}
 }
 
+# Log display
 putlog "Clan Tag Checker v1.0 by rodoabad"
